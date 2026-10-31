@@ -1,0 +1,3 @@
+Open search: /
+Next item: j
+Previous item: k
